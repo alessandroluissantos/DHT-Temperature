@@ -15,10 +15,10 @@ h1 {
 }
 
 .sensor-box{
-    background-color: rgb(213, 224, 211);
+    background-color: rgb(222, 239, 209);
     padding: 30px;
     display: inline-block;
-    box-shadow: 0 0 10px rgba(0, 0,0, 0.6);
+    box-shadow: 0 0 10px rgba(5, 8, 0, 0.6);
     border-radius: 12px;
 }
 
